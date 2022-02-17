@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#check pipeline
 variables:
   buildConfiguration: 'Release'
 
